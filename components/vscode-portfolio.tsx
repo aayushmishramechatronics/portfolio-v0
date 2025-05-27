@@ -464,7 +464,7 @@ export default function VSCodePortfolio() {
       "$ npm run dev",
       "3x Hackathon Finalist | Codechef - (1610) | Ex - Khan Academy",
       "Currently Learning : AI/ML",
-      "Portfolio loaded successfully ✨",
+      "Portfolio Loaded Successfully",
       "$ ",
     ]
 
